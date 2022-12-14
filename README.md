@@ -10,6 +10,17 @@
 
 This project was made to practice ReactJS and to learn how to use the Rick and Morty API. It is a simple wiki that allows you to search for characters, episodes and locations from the show. It also allows you to filter the characters by their status and species.
 
+## Demo
+[Demo na Vercel](https://rick-and-morty-wiki-three.vercel.app/)
+
+## Features
+
+- Search for characters, episodes and locations
+- Filter characters by status, species and gender
+- Pagination
+- Responsive design
+- Dynamic Routing  
+
 ## Topics Covered
 
 - React Hooks (useState, useEffect)
@@ -37,7 +48,7 @@ This project was made to practice ReactJS and to learn how to use the Rick and M
 
 ## Installation
 
-1. Clone the repository with `git clone 
+1. Clone the repository with `git clone https://github.com/eduardodarocha/rick-and-morty-wiki.git `
 2. Install the dependencies with `npm install`
 3. Go to the project folder and run `npm start`
 4. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.The page will reload when you make changes.\
