@@ -10,6 +10,17 @@
 
 This project was made to practice ReactJS and to learn how to use the Rick and Morty API. It is a simple wiki that allows you to search for characters, episodes and locations from the show. It also allows you to filter the characters by their status and species.
 
+## Topics Covered
+
+- React Hooks (useState, useEffect)
+- React Components
+- Fetch API
+- Bootstrap - for styling
+- Pagination
+- Search bar
+- Data Filtering
+- Dynamic Routing
+
 ## Technologies
 
 - [ReactJS](https://reactjs.org/)
