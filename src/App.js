@@ -2,7 +2,6 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "bootstrap/dist/js/bootstrap";
 import React, { useState, useEffect } from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import logo from "./logo.svg";
 import "./App.scss";
 import Search from "./components/Search/Search";
 import Card from "./components/Card/Card";
