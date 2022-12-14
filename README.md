@@ -1,10 +1,10 @@
 # Rick and Morty Character/Episodes/Locations Wiki
 
-<img src="../rick-and-morty-wiki/public/page1.jpg" alt="drawing" width="700"/>
-<img src="../rick-and-morty-wiki/public/page2.jpg" alt="drawing" width="700"/>
-<img src="../rick-and-morty-wiki/public/page3.jpg" alt="drawing" width="700"/>
+<img src="public/page1.jpg" alt="drawing" width="700"/>
+<img src="public/page2.jpg" alt="drawing" width="700"/>
+<img src="public/page3.jpg" alt="drawing" width="700"/>
 </br>
-<img src="../rick-and-morty-wiki/public/page4.jpg" alt="drawing" width="275"/>
+<img src="public/page4.jpg" alt="drawing" width="275"/>
 
 ## Description
 
